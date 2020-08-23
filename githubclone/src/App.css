@@ -1,0 +1,143 @@
+.App {
+  text-align: center;
+}
+*{
+  font-family: sans-serif;
+}
+.search1{
+  border:0.1px solid rgb(197, 196, 196);
+  width:300px;
+  height:30px;
+  padding:1px;
+  border-radius:5px;
+  margin-left:2px;
+  margin-right:2px;
+  text-align:center;
+  cursor: text!important;
+}
+.btn{
+  height:30px;
+}
+.input{
+  color:white!important;
+}
+.input:focus{
+ outline:none!important;
+}
+.fa-exclamation-circle{
+  color:green;
+  margin-left:0%;
+  margin-right:2%;
+}
+.m{
+  color:white;
+}
+.m:focus{
+  color:white;
+}
+.m:hover{
+  color:white;
+}
+.addQ{
+  margin-top:20px;
+  text-align:center;
+}
+.addq{
+  width:450px;
+  margin-top:30px;
+  border:1px solid rgb(128, 127, 127);
+  height:40px;
+  cursor: text!important;
+}
+.addq1{
+  margin-top:30px;
+  border:1px solid rgb(128, 127, 127);
+  width:450px;
+  border-radius:6px;
+  height:200px;
+  margin-bottom:10px;
+  cursor: text!important;
+}
+.btnQ{
+  background-color:green;
+  color:white;
+  width:200px;
+  height:40px;
+  border-radius:5px;
+  border:0px;
+  
+}
+.btnQ:focus{
+  border:1px solid rgb(0, 0, 0);
+  border-radius:5px;
+}
+.text1{
+    color:black;
+    font-weight: 550;
+}
+.text2{
+margin-bottom:-4px;
+margin-top:-4px;
+margin-left:4%;
+}
+.texttop{
+cursor:pointer;
+}
+.list{
+  list-style-type:none;
+}
+.navcol{
+  color:white;
+}
+.navcol:focus{
+  outline:none;
+  box-shadow:none;
+ color:white;
+}
+.navcol:hover{
+  box-shadow:none;
+  color:rgb(202, 202, 202);
+  outline:none;
+ }
+.fa-handshake{
+  color:rgb(255, 172, 38);
+  font-size:20px;
+  margin-right:10px;
+}
+.bgNav{
+  background-color:rgb(40, 45, 51);
+}
+.card-body{
+  text-align:center;
+  margin-top:3%;
+  margin-bottom:3%;
+  border:0.1px solid rgb(194, 186, 186);
+  border-radius:7px;
+  margin-left:15%;
+  margin-right:15%;
+}
+.card-title{
+  color:black;
+  font-size:15px;
+  font-weight: 600;
+  margin-left:15px;
+}
+.fa-bell{
+  color:white;
+  display:flex!important;
+  justify-content:right!important;
+
+}
+.card-text{
+  font-size:15px;
+  margin-bottom:-10px;
+}
+.hn{
+  margin-top:5%;
+  border-radius:8px!important;
+  border:1px solid rgb(177, 177, 177);
+}
+.list1{
+    display: flex;
+    justify-content: center;
+}
